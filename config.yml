@@ -5,7 +5,7 @@ page_load_js: "assets/js/main.js"
 params:
   palette: blue
   header:
-    title: Azimuth
+    title: Application Development Solutions
     logo_img: images/logo.png
     has_nav: true
     menu:
